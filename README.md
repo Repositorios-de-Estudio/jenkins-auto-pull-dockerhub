@@ -1,3 +1,7 @@
+# prueba
+
+pruebas para ejercicio 19
+
 # conectarse como root
 docker exec -it -u root c3fba2e14ac7 /bin/bash
 
