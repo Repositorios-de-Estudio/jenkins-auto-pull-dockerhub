@@ -2,6 +2,7 @@
 
 pruebas para ejercicio 19
 prueba ejercicio 19 otra vez
+misma prueba colocando imagen: sergiopereze/3-practiva2-billingapp
 
 # conectarse como root
 docker exec -it -u root c3fba2e14ac7 /bin/bash
